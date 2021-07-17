@@ -9,10 +9,10 @@ and statistics, and then uploading these data to Microsoft servers in order to
 get diagnostics and statistics about their software usage. For example, the
 *Customer Experience Improvement Program* collects and uploads in background
 many details about the usage and resources of your system. These tracking
-systems are not necessary to run Windows and can be deactivated. This is the
+systems are not necessary to run Windows 10 and can be deactivated. This is the
 purpose of HushWin that provides an easy way to disable these data collection
-services. Disabling these services protect your privacy and strengthens your
-digital security.
+and remote assistance services. Disabling these services protect your privacy
+and strengthens your digital security.
 
 After years of experience in operating system security and digital privacy,
 BitLogiK is publicly releasing this script to disable all tracking in one click.
@@ -20,14 +20,16 @@ We had scripts for Windows 7, then telemetry removal scripts and procedures for
 our employees under Windows 10 since 2017. We feel it worthwhile to craft a
 clean and full script for everyone.
 
-We advise you to run this script after each Windows major update.
-
+We advise you to run this script after each Windows 10 major update.
 
 ### Run it
 
 -   Get the script cmd file in your Windows computer
 
--   Right click on *script.cmd* :
+    -   Get it from a [Github
+        release](https://github.com/bitlogik/HushWin/releases/latest)
+
+-   In the Windows file explorer, right click on *script.cmd* :
 
     -   Run as Administrator
 
@@ -50,13 +52,12 @@ information such as trade secrets or your physical security.
 
 With all these services disabled, your Windows will have a little more resources
 available : less RAM, less CPU cycles, and less disk space used by the system.
-That will slightly speed up the applications, and extend your computer
-battery and disk life. Some people are [reporting telemetry is using a considerable
+That will slightly speed up the applications, and extend your computer battery
+and disk life. Some people are [reporting telemetry is using a considerable
 usage of resources a certain times of the
 day](https://twitter.com/christitustech/status/1414389086232666112), and this
-can [save 5% of
-memory usage](https://twitter.com/adamkee97/status/1413796890383052803).
-
+can [save 5% of memory
+usage](https://twitter.com/adamkee97/status/1413796890383052803).
 
 **Drawbacks**
 
